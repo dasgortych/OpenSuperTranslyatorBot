@@ -1,7 +1,5 @@
 messages:
   notwhitelisted: 'Поддерживаются только подтверждённые чаты.'
   error: 'Произошла неизвестная ошибка. Оповестите DasGortyCH.'
-discord:
-- 1180227361304748072
-telegram:
-- -1002024609919
+discord: [] # add here discord channel's ids
+telegram: [] # add here telegram chat's ids
