@@ -1,6 +1,3 @@
-**Commands to install required libraries**:
-- `pip install disnake`
-- `pip install aiogram`
-- `pip install pyyaml`
+Used libraries: **disnake aiogram pyyaml**
 
-**Starting file** is `main.py`
+Starting file is **main.py**
